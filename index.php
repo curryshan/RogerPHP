@@ -5,7 +5,7 @@
  *   1. 定义常量
  *   2. 加载函数库
  *   3. 启动框架
- *   
+ *   好久不用怕忘了
  */
 
 date_default_timezone_set('PRC');
